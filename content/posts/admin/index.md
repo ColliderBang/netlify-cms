@@ -10,4 +10,8 @@ align:
   - left
   - right
   - center
+tags:
+  - pen
+  - apple
+  - applepen
 ---
