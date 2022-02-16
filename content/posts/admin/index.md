@@ -17,12 +17,8 @@ date: 2022-02-11T20:15:27.450Z
 slug: slug-text
 thumbnail: logo.png
 tags:
-  - pen
-  - apple
-  - appl epensdjkn
-  - sdcsdjk cnds
-  - sdkjcns dkjcn
-  - ""
+  - pdskcn dcsdc
+  - xslkcmslckm
 categories:
   - sdcsdc
 ---
