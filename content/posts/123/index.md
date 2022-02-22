@@ -12,6 +12,9 @@ align:
 tags:
   - ысысыс
 categories:
-  - ""
+  - sckdjsckjdnscd--dssd=
+  - sd
+  - _DSf
+  - sdcdsc
 ---
 цйцй
