@@ -12,8 +12,6 @@ align:
 tags:
   - ысысыс
 categories:
-  - ысы
-  - jnkjnkjn
-  - jnbjnjb
+  - ""
 ---
 цйцй
