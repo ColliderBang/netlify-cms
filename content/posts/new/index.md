@@ -15,4 +15,6 @@ manual_pdf: logo.png
 categories:
   - ascas
 ---
+![]()
+
 casc
