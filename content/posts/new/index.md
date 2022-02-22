@@ -11,9 +11,10 @@ align:
   - Alexei Lozovsky
 tags:
   - sacsc
-manual_pdf: logo.png
 categories:
   - ascas
+portfolio: blablabla.png
+manual_pdf: logo.png
 ---
 ![]()
 
