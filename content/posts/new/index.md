@@ -13,7 +13,7 @@ tags:
   - sacsc
 categories:
   - ascas
-portfolio: blablabla.png
+portfolio: blablabla.png, dscjknsdckjdsnc, jidnssjdnc.
 manual_pdf: logo.png
 ---
 ![]()
